@@ -54,6 +54,6 @@ paginate = 5
         name = "Learn About Terminal"
         url = "https://terminal.co"
       [[languages.en.menu.main]]
-        identifier = "about_huho"
+        identifier = "about_hugo"
         name = "Learn About Hugo"
         url = "https://gohugo.io"
